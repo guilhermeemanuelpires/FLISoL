@@ -1,7 +1,7 @@
 const { Builder, Browser, By } = require('selenium-webdriver');
 const { parse } = require('date-fns');
 
-const data_de_comparacao = '12/03/2025';
+const data_de_comparacao = '26/04/2025';
 
 const url = `https://oab.fgv.br/NovoSec.aspx?key=SWeK97bH3Oc=&codSec=5141`;
 
